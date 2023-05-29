@@ -1,13 +1,13 @@
 # Sakkouni-Hasna-Sakkouni_3_24092021 " OH MY FOOD"
 
-1/Objectif
+
+1/Objectif: Dynamiser un site web avec des animations css
 
 Développer un site proposant le menu de 4 grands restaurants parisiens.
 Permettre la réservation en ligne et la composition de menus.
 
 
 2/Livrables
-
 Pages à intégrer selon les maquettes
 Page d’accueil
 Pages de menu (x4)
